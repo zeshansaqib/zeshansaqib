@@ -1,39 +1,47 @@
-# 👋 Hi, I'm Zeshan Saqib  
+# 👋 Hi, I'm Zeshan Saqib
 
-🚀 **Full-Stack Developer & Team Lead** with **8+ years of proven experience** architecting, developing, and delivering scalable web applications for international clients (USA, Europe, and Asia). I specialize in leading teams, optimizing performance, and implementing modern technologies to deliver high-quality solutions.  
-
----
-
-### 🛠️ **Core Expertise**  
-- **Frontend:** Angular, React, JavaScript (ES6+), HTML5, CSS3, Bootstrap  
-- **Backend:** PHP (CodeIgniter), **Python**, RESTful APIs, SQL Server, MySQL  
-- **DevOps:** Docker, Git (Version Control), CI/CD Pipelines, Agile/Scrum  
-- **CMS & SEO:** WordPress, Digital Marketing, Social Media Optimization, SEO  
-- **Design:** Adobe Photoshop, Responsive Web Design  
+🚀 **Senior Full-Stack Developer** with **8+ years of experience** building scalable web platforms, including **5+ years with a US real estate technology company**. I specialize in **real estate tech**: MLS integrations with real-time data sync, geo-based property search, and listing platforms serving **100,000+ properties**.
 
 ---
 
-### 📌 **Professional Highlights**  
-- ✅ Led a **distributed team of 4 developers** delivering a **multinational real estate platform** for a US-based client.  
-- ✅ Successfully **developed and deployed 15+ international websites**, improving client acquisition and user engagement.  
-- ✅ Developed **Python scripts and microservices** for data automation and backend integrations.  
-- ✅ Implemented **Dockerized deployments** and **CI/CD pipelines**, reducing release time by **40%**.  
-- ✅ Revamped legacy applications into **modern SPAs using Angular and React**, achieving **30% faster load times**.  
-- ✅ Managed end-to-end project lifecycles including backend APIs, frontend UI/UX, database optimization, and SEO strategy.  
+### 🛠️ Tech Stack
+
+- **Frontend:** Angular, React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, PHP (CodeIgniter, Laravel), Python, RESTful APIs, Microservices, WebSockets
+- **Databases:** MySQL, Amazon Aurora / RDS, SQL Server
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, VPC, IAM, CloudWatch, SES), Nginx, PM2, Linux, CI/CD, Git
+- **Real Estate Tech:** MLS integrations, real-time listing sync, map-based geospatial search
+- **AI-Assisted Development:** Claude Code, OpenAI Codex, LLM APIs
+- **CMS & SEO:** WordPress, custom plugins, technical SEO
 
 ---
 
-### 📊 **GitHub Overview**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeshansaqib&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeshansaqib&layout=compact&theme=tokyonight)  
+### 📌 Highlights
+
+- ✅ Built and scaled a **real estate platform** with **100,000+ listings** and thousands of daily active users
+- ✅ Integrated the **Miami Realtors MLS** with real-time data sync from third-party providers
+- ✅ Cut average database response time by **35%** through MySQL schema and query optimization
+- ✅ Migrated a legacy frontend to **Angular**, improving performance, SEO, and mobile responsiveness
+- ✅ Built **map-based property search** with polygon drawing, markers, and geo-filtering
+- ✅ Ran **AWS deployments** (EC2, Nginx, PM2) and added production logging
+- ✅ Led **Agile sprints**, reviewed code, and mentored junior developers
+- ✅ Delivered freelance projects for clients in the **USA, Europe, and Asia**
 
 ---
 
-### 🤝 **Connect With Me**  
-- 📧 Email: zeshansaqib16@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/zeshansaqib786)
-- 🧑‍💻 [Stack Overflow](https://stackoverflow.com/users/10600031/zeshan-saqib) 
+### 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeshansaqib&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeshansaqib&layout=compact&theme=tokyonight)
 
 ---
 
-💡 *Note: Due to NDA and client confidentiality, project source codes are private. This profile highlights my skills, leadership experience, and technical expertise.*  
+### 🤝 Connect With Me
+
+- 📧 Email: zeshansaqib16@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zeshansaqib786/)
+- 🧑‍💻 [Stack Overflow](https://stackoverflow.com/users/10600031/zeshan-saqib)
+
+---
+
+💡 *Most of my client and employer work is under NDA, so the source code is private. This profile summarizes my skills and experience.*
